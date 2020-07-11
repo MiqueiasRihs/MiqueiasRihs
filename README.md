@@ -1,6 +1,6 @@
 ## Olá! 👋
 
-Meu nome é Miquéias, tenho 22 anos e trabalho como Analista de Sistemas na [Cotabox](https://maxinst.com.br/), e lá utilizo Python e SQL como principais ferramentas.
+Meu nome é Miquéias, tenho 22 anos e trabalho como Analista de Sistemas na [Maxinst](https://maxinst.com.br/), e lá utilizo Python e SQL como principais ferramentas.
 
 
 Estou estudando **Python**, **Django** e **PHP**.

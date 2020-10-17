@@ -10,7 +10,7 @@
   </table>
 </center>  
 
-### Olá! <img src="https://github.com/MiqueiasRihs/MiqueiasRihs/blob/master/images/Hi.gif" width="30px">
+### Olá! <img src="https://github.com/MiqueiasRihs/MiqueiasRihs/blob/master/images/Hi_github.gif" width="30px">
 
 ---
 
@@ -25,11 +25,11 @@ Sou desenvolvedor back-end, trabalho com Python e seu framework Django em um mar
 
 <h4>Estou em... :mag:</h4>  
 
-<a href="https://www.instagram.com/m_rihs/"><img src="https://github.com/MiqueiasRihs/MiqueiasRihs/blob/master/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/m_rihs/)
+<a href="https://www.instagram.com/m_rihs/"><img src="https://github.com/MiqueiasRihs/MiqueiasRihs/blob/master/images/instagram_github.png" width="16"></img></a> [Instagram](https://www.instagram.com/m_rihs/)
 
-<a href="https://twitter.com/seila_rr"><img src="https://github.com/MiqueiasRihs/MiqueiasRihs/blob/master/images/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/seila_rr)  
+<a href="https://twitter.com/seila_rr"><img src="https://github.com/MiqueiasRihs/MiqueiasRihs/blob/master/images/twitter_github.png" width="16"></img></a> [Twitter](https://twitter.com/seila_rr)  
 
-<a href="https://www.linkedin.com/in/r-miqueias/"><img src="https://github.com/MiqueiasRihs/MiqueiasRihs/blob/master/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/r-miqueias/)  
+<a href="https://www.linkedin.com/in/r-miqueias/"><img src="https://github.com/MiqueiasRihs/MiqueiasRihs/blob/master/images/linkedin_github.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/r-miqueias/)  
 
 ---  
 

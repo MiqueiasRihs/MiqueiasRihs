@@ -1,7 +1,12 @@
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiqueiasRihs&hide=html&layout=compact&theme=buefy" />
-<td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=MiqueiasRihs&theme=buefy"/>
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiqueiasRihs&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=MiqueiasRihs&theme=buefy"/></td>
+    </tr>   
+</table>
+</center>  
 
-<br/>
 ## Olá! 👋
 
 Meu nome é Miquéias, tenho 22 anos e trabalho como Analista de Sistemas na [Maxinst](https://maxinst.com.br/), e lá utilizo Python e SQL como principais ferramentas.

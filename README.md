@@ -24,7 +24,7 @@ Sou desenvolvedor back-end, trabalho com Python e seu framework Django em um mar
 
 ---
 
-<h4>Estou em...</h4>:mag:  
+<h4>Estou em...</h4> :mag:  
 
 <a href="https://www.instagram.com/m_rihs/"><img src="https://github.com/MiqueiasRihs/MiqueiasRihs/blob/master/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/m_rihs/)  
 

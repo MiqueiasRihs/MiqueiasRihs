@@ -28,7 +28,7 @@ Sou desenvolvedor back-end, trabalho com Python e seu framework Django em um mar
 
 <a href="https://www.instagram.com/m_rihs/"><img src="https://github.com/MiqueiasRihs/MiqueiasRihs/blob/master/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/m_rihs/)
 
-<a href="https://twitter.com/seila_rr"><img src="https://github.com/MiqueiasRihs/MiqueiasRihs/blob/master/images/twitter.png" width="16"></img></a> [LinkedIn](https://twitter.com/seila_rr)  
+<a href="https://twitter.com/seila_rr"><img src="https://github.com/MiqueiasRihs/MiqueiasRihs/blob/master/images/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/seila_rr)  
 
 <a href="https://www.linkedin.com/in/r-miqueias/"><img src="https://github.com/MiqueiasRihs/MiqueiasRihs/blob/master/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/r-miqueias/)  
 

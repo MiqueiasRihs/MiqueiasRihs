@@ -14,29 +14,22 @@
 
 ---
 
-Sou Cientista de Dados, atuo na área desde 2017 (e desde 2005 estudando informática :scream:) e sou graduanda em Ciência da Computação. Escrevo no [dev.to](https://dev.to/dii_lua), [Medium](https://medium.com/@dii_lua), e no meu [blog](https://leticiadasilva.github.io/) pessoal.  
+Sou desenvolvedor back-end, trabalho usando Python e seu framework Django em um marketplace da construção civil [Obrazul](https://www.obrazul.com.br/), além de Python, utilizo como ferramentas também PostgreSQL e quando o front-end precisa de alterações, uso JavaScript e CSS. Sou graduado em Análise e Desenvolvimento de Sistemas, mas estou sempre atrás de materiais didáticos para complementar ainda mais na minha carreira.  
 
-Amo dançar :dancer:, ler :books: e ir a karaokês :microphone:  
-Sou mãe de duas gatinhas, a Ruby e a Banguela :cat2:  
+Atualmente estou estudando:
 
----
-
-Sou Developer Student Club Lead ([DSC](https://dsc.community.dev/universidade-paulista/), da Google), organizadora do [Django Girls](https://www.instagram.com/djangogirlssjc/), [PyLadies](https://www.instagram.com/pyladiessjc/), GruPy, [Women Techmakers](https://www.instagram.com/wtmsjc/) e [GDG](https://www.instagram.com/gdgsjc/) de São José dos Campos.  
-
-Luto para incentivar pessoas, principalmente mulheres, a entrarem em TI, acreditarem em si mesmas e mostrar que programar transforma vidas! :revolving_hearts:   
+* Teste unitario com Python
+* Jenkins
+* Serviços AWS
 
 ---
 
-Onde me encontrar? :mag:  
+Estou em... :mag:  
 
-<a href="https://twitter.com/dii_lua"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/dii_lua)   
+<a href="https://www.instagram.com/dii_lua/"><img src="https://github.com/MiqueiasRihs/MiqueiasRihs/blob/master/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/m_rihs/)  
 
-<a href="https://www.instagram.com/dii_lua/"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/dii_lua)  
-
-<a href="https://www.linkedin.com/in/leticiasilvar"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/leticiasilvar)  
-
-<a href="mailto:leticiadasilva.contato@gmail.com"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/email.png" width="16"></img></a> [Email](mailto:leticiadasilva.contato@gmail.com)  
+<a href="https://www.linkedin.com/in/leticiasilvar"><img src="https://github.com/MiqueiasRihs/MiqueiasRihs/blob/master/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/r-miqueias/)  
 
 ---  
 
-![](https://komarev.com/ghpvc/?username=leticiadasilva&color=blue&style=flat)
+![](https://komarev.com/ghpvc/?username=MiqueiasRihs&color=blue&style=flat)

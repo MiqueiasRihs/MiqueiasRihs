@@ -26,9 +26,9 @@ Atualmente estou estudando:
 
 Estou em... :mag:  
 
-<a href="https://www.instagram.com/dii_lua/"><img src="https://github.com/MiqueiasRihs/MiqueiasRihs/blob/master/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/m_rihs/)  
+<a href="https://www.instagram.com/m_rihs/"><img src="https://github.com/MiqueiasRihs/MiqueiasRihs/blob/master/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/m_rihs/)  
 
-<a href="https://www.linkedin.com/in/leticiasilvar"><img src="https://github.com/MiqueiasRihs/MiqueiasRihs/blob/master/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/r-miqueias/)  
+<a href="https://www.linkedin.com/in/r-miqueias/"><img src="https://github.com/MiqueiasRihs/MiqueiasRihs/blob/master/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/r-miqueias/)  
 
 ---  
 

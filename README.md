@@ -14,7 +14,7 @@
 
 ---
 
-Sou desenvolvedor back-end, trabalho com Python e seu framework Django em um marketplace da construção civil ([Obrazul](https://www.obrazul.com.br/)), além de Python, utilizo como ferramentas também PostgreSQL e quando o front-end precisa de alterações, uso JavaScript e CSS. <br> Sou graduado em Análise e Desenvolvimento de Sistemas, mas estou sempre atrás de materiais didáticos para complementar ainda mais na minha carreira.  
+Sou desenvolvedor back-end, trabalho com Python e seu framework Django em um marketplace da construção civil ([Obrazul](https://www.obrazul.com.br/)), além de Python, utilizo como ferramentas também PostgreSQL e quando o front-end precisa de alterações, uso JavaScript e CSS. <br> Sou graduado em Análise e Desenvolvimento de Sistemas, mas estou sempre atrás de materiais didáticos para complementar ainda em minha carreira.  
 
 Atualmente estou estudando:
 

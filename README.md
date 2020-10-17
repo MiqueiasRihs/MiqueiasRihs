@@ -21,7 +21,6 @@ Sou desenvolvedor back-end, trabalho com Python e seu framework Django em um mar
 * Teste unitário com Python
 * Jenkins
 * Serviços AWS
-
 ---
 
 <h4>Estou em... :mag:</h4>  

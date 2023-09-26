@@ -10,14 +10,20 @@
   </table>
 </center>  
 
-### Olá! <img src="https://github.com/MiqueiasRihs/MiqueiasRihs/blob/master/images/Hi_github.gif" width="30px">
+### Hello! <img src="https://github.com/MiqueiasRihs/MiqueiasRihs/blob/master/images/Hi_github.gif" width="30px">
 
 ---
 
-Sou desenvolvedor back-end, trabalho com Python e seu framework Django em um marketplace da construção civil ([Obrazul](https://www.obrazul.com.br/)), além de Python, utilizo também PostgreSQL e quando o front-end precisa de alterações, uso JavaScript e CSS. <br> Sou graduado em Análise e Desenvolvimento de Sistemas, mas estou sempre atrás de materiais didáticos para complementar ainda mais em minha carreira.  
+With over 3 years of experience as a back-end developer, I have solid skills in Python, Django, and Postgresql. I am capable of developing scalable and robust web applications, following the best practices in the market and providing quality solutions for clients and users.
+
+I have extensive experience in writing effective unit tests to ensure code quality and system functionality. My attention to detail and dedication to solid programming practices allow me to identify and correct errors at an early stage, avoiding future problems and ensuring system stability.
+
+In addition, I have knowledge of React, allowing me to effectively collaborate with front-end development teams to deliver end-to-end solutions.
+
+I am always seeking new challenges and opportunities to enhance my skills as a back-end developer and bring creative and innovative solutions to challenging projects.
 
 
-<h4>Estou em... :mag:</h4>  
+<h4>You can find me in... :mag:</h4>  
 
 <a href="https://www.instagram.com/m_rihs/"><img src="https://github.com/MiqueiasRihs/MiqueiasRihs/blob/master/images/instagram_github.png" width="16"></img></a> [Instagram](https://www.instagram.com/m_rihs/)
 

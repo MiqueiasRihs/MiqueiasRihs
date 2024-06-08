@@ -14,13 +14,11 @@
 
 ---
 
-With over 3 years of experience as a back-end developer, I have solid skills in Python, Django, and Postgresql. I am capable of developing scalable and robust web applications, following the best practices in the market and providing quality solutions for clients and users.
+As a software engineer, I possess advanced skills in Python, Django, and PostgreSQL. I specialize in creating scalable and robust web applications, always adhering to industry best practices and delivering high-quality solutions to clients and end-users.
 
-I have extensive experience in writing effective unit tests to ensure code quality and system functionality. My attention to detail and dedication to solid programming practices allow me to identify and correct errors at an early stage, avoiding future problems and ensuring system stability.
+I have extensive experience in writing effective unit tests, ensuring code quality and system functionality. My attention to detail and commitment to solid programming practices enable the early identification and correction of errors, preventing future issues and ensuring system stability.
 
-In addition, I have knowledge of React, allowing me to effectively collaborate with front-end development teams to deliver end-to-end solutions.
-
-I am always seeking new challenges and opportunities to enhance my skills as a back-end developer and bring creative and innovative solutions to challenging projects.
+Additionally, I have knowledge of React and Angular, which allows me to collaborate effectively with front-end development teams to deliver end-to-end solutions. I have experience with Docker, Celery, Redis, and MongoDB, enabling me to manage the entire lifecycle of complex applications. I am constantly motivated by new challenges and continuously seek opportunities to enhance my skills and bring creative and innovative solutions to complex projects.
 
 
 <h4>You can find me in... :mag:</h4>  

@@ -12,6 +12,4 @@ Experienced Full Stack Developer with expertise in building scalable, high-perfo
 ---  
 <h4>You can find me in... :mag:</h4>  
 
-<a href="https://www.instagram.com/m_rihs/"><img src="https://github.com/MiqueiasRihs/MiqueiasRihs/blob/master/images/instagram_github.png" width="16"></img></a> [Instagram](https://www.instagram.com/m_rihs/)
-
-<a href="https://www.linkedin.com/in/r-miqueias/"><img src="https://github.com/MiqueiasRihs/MiqueiasRihs/blob/master/images/linkedin_github.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/r-miqueias/
+<a href="https://www.linkedin.com/in/r-miqueias/"><img src="https://github.com/MiqueiasRihs/MiqueiasRihs/blob/master/images/linkedin_github.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/r-miqueias/)
